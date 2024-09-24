@@ -18,10 +18,17 @@ Requisitos:</br>
 </ul>
 
 </br>
-Partindo do ponto que você já tenha baixado o projeto,
+Partindo do ponto que você já tenha baixado o projeto
 
 ## Passo 1
 <ul>
-  <li>Instalar as depêndencias do projeto execultando o commando </li>
-  
+  <li>Instalar as depêndencias do projeto execultando o commando</li>
+  ```console npm i```
+    ```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 </ul>
