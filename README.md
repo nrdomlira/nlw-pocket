@@ -13,7 +13,7 @@ O projeto é um site desktop de registro de metas com progresso semanal.
 
 Requisitos:</br>
 <ul>
-  <li><a href="https://www.docker.com/products/docker-desktop/">Node.js</a></li>
+  <li><a href="https://nodejs.org/en">Node.js</a></li>
   <li><a href="https://www.docker.com/products/docker-desktop/">Docker</a></li>
 </ul>
 
