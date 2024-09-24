@@ -24,11 +24,4 @@ Partindo do ponto que você já tenha baixado o projeto
 <ul>
   <li>Instalar as depêndencias do projeto execultando o commando</li>
   ```console npm i```
-    ```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 </ul>
