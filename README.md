@@ -32,7 +32,6 @@ Requisitos:</br>
 </ul>
 
 </br>
-Partindo do ponto que você já tenha baixado o projeto
 
 ## Passo 1
 
